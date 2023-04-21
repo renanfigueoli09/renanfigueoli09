@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+<div align="center"> 
 <table align="center">
         <thead>
             <tr align="center">
@@ -26,4 +27,4 @@
             </tr>
         </tbody>
     </table>
-
+</div>
