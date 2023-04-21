@@ -2,15 +2,34 @@
 
 <!--
 **renanfigueoli09/renanfigueoli09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+<table align="center">
+        <thead>
+            <tr align="center">
+                <td> <strong>Knowledge</strong></td>
+                <td> <strong>Tools</strong></td>
+        </thead>
+        </tr>
+        <tbody align="center">
+            <tr>
+                <td>HTML, CSS</td>
+                <td>VSCode</td>
+            </tr>
+            <tr>
+                <td>JavaScript, TypeScript,Python</td>
+                <td>NVM and Pyenv</td>
+            </tr>
+            <tr>
+                <td>React, Tailwind, Bootstrap,styled-components...</td>
+                <td>Docker and Docker Compose</td>
+            </tr>
+
+            <tr>
+                <td>Nestjs,MongoDB...</td>
+                <td>Git, GitHub and GitLab</td>
+            </tr>
+        </tbody>
+    </table>
+
