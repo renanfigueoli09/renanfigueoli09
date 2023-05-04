@@ -1,6 +1,6 @@
  <div align="center">
  <p> Interdisciplinary projects carried out</p>
- <a href="https://github.com/fullSports" target="_blank"><img src ="https://upload-image-fullsports.s3.us-east-1.amazonaws.com/f09b1d4197ce03321ca8b2563c3b66b4-icone.svg" width="100" height="45"></a>
+ <a href="https://github.com/fullSports" target="_blank"><img src ="https://upload-image-fullsports.s3.us-east-1.amazonaws.com/f09b1d4197ce03321ca8b2563c3b66b4-icone.svg" width="120" height="45"></a>
  </div>
  <br />
 <div align="center"> 
