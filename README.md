@@ -2,7 +2,7 @@
  <p> Interdisciplinary projects carried out</p>
  <a href="https://github.com/fullSports" target="_blank"><img src ="https://upload-image-fullsports.s3.us-east-1.amazonaws.com/f09b1d4197ce03321ca8b2563c3b66b4-icone.svg" width="120" height="45"></a>
  <a  href="https://www.linkedin.com/in/renan-figueiredo-3794b0224/"  alt="Linkedin">
-<img  src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/renan-figueiredo-3794b0224/"  /></a>
+<img  src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/renan-figueiredo-3794b0224/" width="120" height="45" /></a>
  </div>
  <br />
 <div align="center"> 
