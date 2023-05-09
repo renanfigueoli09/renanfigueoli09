@@ -23,11 +23,11 @@
 <td>NVM and Pyenv</td>
 </tr>
 <tr>
-<td>React, Tailwind, Bootstrap,styled-components...</td>
+<td>React, React-Native, Tailwind, Bootstrap,styled-components...</td>
 <td>Docker and Docker Compose</td>
 </tr>
 <tr>
-<td>Nestjs,MongoDB...</td>
+<td>Nestjs,Express, Jest, MongoDB,esLint...</td>
 <td>Git, GitHub and GitLab</td>
 </tr>
 </tbody>
