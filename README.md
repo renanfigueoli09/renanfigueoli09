@@ -36,10 +36,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=renanfigueoli09&show_icons=true&theme=bear&include_all_commits=true&count_private=true&locale=pt-br"/>
 </div> -->
  <div align="center">
-<!--    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanfigueoli09&show_icons=true&theme=bear&include_all_commits=true&count_private=true&locale=pt-br" /> -->
- <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100px">       
-<image xlink:href="https://github-readme-stats.vercel.app/api?username=renanfigueoli09&show_icons=true&theme=bear&include_all_commits=true&count_private=true&locale=pt-br" width="100px"/>    
-</svg>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanfigueoli09&show_icons=true&theme=bear&include_all_commits=true&count_private=true&locale=pt-br" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfigueoli09&layout=compact&langs_count=7&theme=bear&locale=pt-br"/>
  </div>
 </div>
