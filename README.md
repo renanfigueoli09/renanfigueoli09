@@ -34,5 +34,6 @@
 </table>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfigueoli09&layout=compact&langs_count=7&theme=bear&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfigueoli09&layout=compact&langs_count=7&theme=bear&locale=pt-br"/>
 </div>
 </div>
