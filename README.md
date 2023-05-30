@@ -5,7 +5,7 @@
 <img  src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge" width="140" height="45" /></a>
  </div>
  <br />
-<div align="center"> 
+<div align="center">
 <table align="center">
 <thead>
 <tr align="center">
@@ -32,4 +32,7 @@
 </tr>
 </tbody>
 </table>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfigueoli09&layout=compact&langs_count=7&theme=bear&locale=pt-br"/>
+</div>
 </div>
