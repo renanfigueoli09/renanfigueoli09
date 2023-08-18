@@ -45,6 +45,14 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
+<div>
+ <div align="center">
+  <a href="https://github.com/renanfigueoli09">
+  <img height="180em" src="https://github-readme-stats-lime-two.vercel.app/api?username=renanfigueoli09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-lime-two.vercel.app/api/top-langs/?username=renanfigueoli09&layout=compact&langs_count=7&theme=dracula"/>    
+    <img align="right" alt="Yoda" height="200" width="400" src="https://c.tenor.com/gK9Yd_xrxrIAAAAC/yoda-star-wars.gif">
+</div>
+</div>
 
    ![Snake animation](https://github.com/DanielPin/DanielPin/blob/output/github-contribution-grid-snake.svg)
 
