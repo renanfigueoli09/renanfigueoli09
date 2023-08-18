@@ -48,6 +48,9 @@
 <div>
 </div>
  <br/>
+ <br/>
+ <br/>
+ <br/>
  <div align="center">
   <a href="https://github.com/renanfigueoli09">
   <img height="180em" src="https://github-readme-stats-lime-two.vercel.app/api?username=renanfigueoli09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
