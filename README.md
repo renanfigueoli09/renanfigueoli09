@@ -48,7 +48,7 @@
 ## 📊 GitHub Stats
 
 <a href="https://github.com/renanfigueoli09">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanfigueoli09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanfigueoli09"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfigueoli09&layout=compact&theme=dracula"/>
 </a>
 
