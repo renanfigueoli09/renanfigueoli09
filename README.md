@@ -18,17 +18,6 @@
 
 ---
 
-## 🧠 Knowledge & Tools
-
-| Knowledge | Tools |
-|----------|------|
-| HTML, CSS | VSCode |
-| JavaScript, TypeScript, Python | NVM, Pyenv |
-| React, React Native, Tailwind, Bootstrap, Styled-components | Docker, Docker Compose |
-| NestJS, Express, Jest, MongoDB, ESLint | Git, GitHub, GitLab |
-
----
-
 ## 🚀 Tech Stack
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" />
