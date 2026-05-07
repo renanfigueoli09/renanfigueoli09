@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Renan Figueiredo
 
-### Full Stack Developer | Backend Focus | Java & Node.js
+### Full Stack Developer | Java | Spring | NestJS | Node.js | TypeScript | React | Next.js | Angula.js
 
 ---
 
