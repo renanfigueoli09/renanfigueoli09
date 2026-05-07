@@ -43,19 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
 <img src="https://img.icons8.com/?size=100&id=A3Ulk2RcONKs&format=png&color=000000" height="30" />
 
----
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/renanfigueoli09">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanfigueoli09&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfigueoli09&layout=compact&theme=dracula"/>
-</a>
 
 ---
-
-## 🐍 Contribution Graph
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
