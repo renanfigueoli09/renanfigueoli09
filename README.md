@@ -32,7 +32,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
 <img src="https://img.icons8.com/?size=100&id=A3Ulk2RcONKs&format=png&color=000000" height="30" />
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=renanfigueoli09&hide_border=true&background=00000000&ring=6F42C1&fire=6F42C1&currStreakNum=6F42C1&currStreakLabel=6F42C1&sideNums=6F42C1&sideLabels=8B8B8B&dates=8B8B8B&stroke=6F42C1&excludeDaysLabel=8B8B8B" alt="GitHub streak">
+</p>
 ---
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
